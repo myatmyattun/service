@@ -1,0 +1,342 @@
+.s1{
+    position: absolute;
+    top: 10px;
+   
+}
+
+
+.s2{
+    position: absolute ;
+    top: 10px;
+    left: 15px;
+    font-size: 20px;
+}
+
+.s3{
+    position: absolute;
+    top: 10px;
+    left: 750px;
+    font-size: 20px;
+}
+
+.s4{
+    position: absolute;
+    top: 10px;
+    left: 900px;
+    font-size: 20px;
+}
+
+.s5{
+    position: absolute;
+    top: 10px;
+    left: 1050px;
+    font-size: 20px;
+}
+
+.s6{
+    position: absolute;
+    top:10px ;
+    left: 1200px;
+    font-size: 20px;
+}
+
+.s7{
+    position: absolute;
+    top: 65px;
+}
+
+.s8{
+    position: absolute;
+    top: 400px;
+    left: 220px;
+    font-size: 20px;
+}
+
+.s9{
+    position: absolute;
+    top: 450px;
+    left: 70px;
+}
+
+.s10{
+    position: absolute;
+    top: 450px;
+    left: 150px;
+    font-size: 50px;
+}
+
+.s11{
+    position: absolute;
+    top: 550px;
+    left: 120px;
+    font-size: 23px;
+}
+
+.s12{
+    position: absolute;
+    top: 850px;
+    left: 1100px;
+}
+
+.s13{
+    position: absolute;
+    top: 850px;
+    left: 1100px;
+    font-size: 25px;
+}
+
+.s14{
+    position: absolute;
+    top: 970px;
+}
+
+.s15{
+    position: absolute;
+    top: 1000px;
+    left: 100px;
+    font-size: 30px;
+}
+
+.s16{
+    position: absolute;
+    top: 1880px;
+   
+}
+
+.s17{
+    position: absolute;
+    top: 2020px;
+    left: 70px;
+}
+
+.s18{
+    position: absolute;
+    top: 2100px;
+    left: 800px;
+    font-size: 30px;
+    font-style: initial;
+}
+
+.s19{
+    position: absolute;
+    top: 2150px;
+    left: 800px;
+    font-size: 60px;
+    font-style: unset;
+}
+
+.s20{
+    position: absolute;
+    top: 2500px;
+    left: 950px;
+}
+
+.s21{
+    position: absolute;
+    top: 2500px;
+    left: 950px;
+    font-size: 20px;
+}
+
+.s22{
+    position: absolute;
+    top: 2590px;
+}
+
+.s23{
+    position: absolute;
+    top: 2590px;
+}
+
+.inner1{
+position: relative;
+    /* width: 0px;
+    height: 0px; */
+    border-bottom: 350px solid transparent;
+    border-top: 350px solid transparent;
+    border-right:350px solid rgba(227, 220, 220, 0.718); 
+    border-left: 350px solid rgb(214, 211, 211);  
+    bottom: 3650px;  
+    left: 480px;
+    top: 2585px;
+}
+.s24{
+    position: absolute;
+    top: 2650px;
+    left: 60px;
+    font-size: 60px;
+}
+
+.s25{
+    position: absolute;
+    top: 2850px;
+    left: 60px;
+    font-size: 45px;
+}
+
+.s26{
+    position: absolute;
+    top: 3200px;
+    left: 1150px;
+    border-radius: 100px;
+}
+
+.s27{
+    position: absolute;
+    top: 3200px;
+    left: 1150px;
+    font-size: 20px;
+}
+
+.s28{
+    position: absolute;
+    top: 3300px;
+}
+
+.s29{
+    position: absolute;
+    top: 3305px;
+    left: 30px;
+    border-radius:200px;
+}
+
+.s30{
+    position: absolute;
+    top: 3600px;
+    left: 930px;
+    border-radius: 200px;
+}
+
+.s31{
+    position: absolute;
+    top: 3305px;
+    left: 700px;
+    font-size: 90px;
+}
+
+.s32{
+    position: absolute;
+    top: 3450px;
+    left: 700px;
+    font-size: 40px;
+}
+
+.s33{
+    position: absolute;
+    top: 3700px;
+    left: 150px;
+    font-size: 40px;
+}
+
+.s34{
+    position: absolute;
+    top: 3730px;
+    left: 150px;
+    font-size: 60px;
+}
+
+.s35{
+    position: absolute;
+    top: 4010px;
+}
+
+.s36{
+    position: absolute;
+    top: 4200px;
+    left: 750px;
+}
+
+.s37{
+    position: absolute;
+    top: 4025px;
+    left: 420px;
+    font-size: 37px;
+}
+
+.s38{
+    position: absolute;
+    top: 4080px;
+    left: 420px;
+    font-size: 27px;
+}
+
+.s39{
+    position: absolute;
+    top: 4300px;
+    left: 20px;
+    font-size: 30px;
+}
+
+.s40{
+    position: absolute;
+    top: 4400px;
+    left: 170px;
+    font-size: 27px;
+}
+
+.s41{
+    position: absolute;
+    top: 4600px;
+    left: 70px;
+    border-radius: 70px;
+}
+
+.s42{
+    position: absolute;
+    top: 4585px;
+    left: 80px;
+  font-size: 30px;
+}
+
+.s43{
+    position: absolute;
+    top: 4720px;
+}
+
+.s44{
+    position: absolute;
+    top: 5420px;
+    left: 300px;
+    font-size: 30px;
+}
+
+.s45{
+    position: absolute;
+    top: 5580px;
+}
+
+.s46{
+    position: absolute;
+    top: 5750px;
+    left: 130px;
+    font-size: 60px;
+}
+
+.s47{
+    position: absolute;
+    top: 5850px;
+    left: 130px;
+    font-size: 37px;
+}
+
+.s48{
+    position: absolute;
+    top: 5950px;
+    left: 130px;
+    font-size: 37px;
+}
+
+.s49{
+    position: absolute;
+    top: 6050px;
+    left: 130px;
+    font-size: 37px;
+}
+
+.s50{
+    position: absolute;
+    top: 6200px;
+    left: 900px;
+    font-size: 30px;
+}
+
